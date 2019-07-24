@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb44b207-c4df-47bb-9d33-26d8fb4f9a1f" name="Default Changelist" comment="done tasks with pandas">
-      <change afterPath="$PROJECT_DIR$/.idea/JSP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSON_Format/JSON_Format_default.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSON_Format/JSON_Format_records.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSON_Format/JSON_Format_values.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Convert_JSON_DataFrame.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON_Format/JSON_Format_default.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON_Format/JSON_Format_records.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON_Format/JSON_Format_values.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -161,6 +152,9 @@
       <module name="JSP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -222,7 +216,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34600000" />
+    <option name="totallyTimeSpent" value="34757000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
