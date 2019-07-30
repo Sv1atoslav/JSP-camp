@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb44b207-c4df-47bb-9d33-26d8fb4f9a1f" name="Default Changelist" comment="done tasks with pandas">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/JSP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JSP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -40,11 +41,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/regression.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="7" />
+              <selected id="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -71,13 +81,13 @@
         <option value="$PROJECT_DIR$/sad.py" />
         <option value="$PROJECT_DIR$/Convert_JSON_DataFrame.ipynb" />
         <option value="$PROJECT_DIR$/.gitignore.txt" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/try.py" />
         <option value="$PROJECT_DIR$/task.py" />
         <option value="$PROJECT_DIR$/hh.py" />
         <option value="$PROJECT_DIR$/file2.ipynb" />
         <option value="$PROJECT_DIR$/Generalized Linear Models.ipynb" />
         <option value="$PROJECT_DIR$/regression.ipynb" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -301,7 +311,7 @@
       <workItem from="1564134326758" duration="4831000" />
       <workItem from="1564389475524" duration="8082000" />
       <workItem from="1564413043352" duration="5240000" />
-      <workItem from="1564475552414" duration="1739000" />
+      <workItem from="1564475552414" duration="2211000" />
     </task>
     <task id="LOCAL-00001" summary="85% done">
       <created>1563824053060</created>
@@ -321,13 +331,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62949000" />
+    <option name="totallyTimeSpent" value="63421000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -341,8 +351,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33569404" />
-      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.41501418" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33569404" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.41501418" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -422,13 +432,6 @@
     <entry file="file://$PROJECT_DIR$/numpy" />
     <entry file="file://$PROJECT_DIR$/sad.py" />
     <entry file="file://$PROJECT_DIR$/Convert_JSON_DataFrame.ipynb" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../Anaconda/envs/JSP/Lib/site-packages/sklearn/linear_model/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -463,14 +466,21 @@
     <entry file="file://$PROJECT_DIR$/Generalized Linear Models.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="16" />
+          <selected id="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/regression.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="7" />
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
     </entry>
