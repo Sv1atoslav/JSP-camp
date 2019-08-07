@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb44b207-c4df-47bb-9d33-26d8fb4f9a1f" name="Default Changelist" comment="done tasks with pandas" />
+    <list default="true" id="cb44b207-c4df-47bb-9d33-26d8fb4f9a1f" name="Default Changelist" comment="done tasks with pandas">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classi.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/classi.ipynb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/classi.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="3" />
+              <selected id="6" />
             </state>
           </provider>
         </entry>
@@ -40,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/classification.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="0" />
+              <selected id="5" />
             </state>
           </provider>
         </entry>
@@ -78,11 +81,11 @@
         <option value="$PROJECT_DIR$/Generalized Linear Models.ipynb" />
         <option value="$PROJECT_DIR$/ads.py" />
         <option value="$PROJECT_DIR$/regression.ipynb" />
-        <option value="$PROJECT_DIR$/try.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="E:/Downloads/Chrome/plot_classifier_comparison.ipynb" />
-        <option value="$PROJECT_DIR$/classi.ipynb" />
         <option value="$PROJECT_DIR$/classification.ipynb" />
+        <option value="$PROJECT_DIR$/try.py" />
+        <option value="$PROJECT_DIR$/classi.ipynb" />
       </list>
     </option>
   </component>
@@ -273,6 +276,9 @@
       <module name="JSP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -338,7 +344,7 @@
       <workItem from="1565130097826" duration="269000" />
       <workItem from="1565130388158" duration="731000" />
       <workItem from="1565131234753" duration="471000" />
-      <workItem from="1565131751419" duration="2663000" />
+      <workItem from="1565131751419" duration="3008000" />
     </task>
     <task id="LOCAL-00001" summary="85% done">
       <created>1563824053060</created>
@@ -358,12 +364,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92097000" />
+    <option name="totallyTimeSpent" value="92442000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21879195" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21879195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -377,7 +383,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067115" side_tool="true" weight="0.41501418" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49731544" visible="true" weight="0.33569404" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49731544" visible="true" weight="0.33569404" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49932885" weight="0.41501418" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -513,9 +519,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/try.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/classify1.csv">
       <provider selected="true" editor-type-id="LargeFileEditor">
         <state>
@@ -537,12 +540,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classify2.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../Anaconda/envs/JSP/Lib/site-packages/numpy/core/multiarray.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
@@ -550,17 +547,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/try.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classify2.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/classi.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="3" />
+          <selected id="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/classification.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="0" />
+          <selected id="5" />
         </state>
       </provider>
     </entry>
