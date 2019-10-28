@@ -8,7 +8,7 @@ from BotPycharm.Words import list_on_unknown_cities, list_on_unknown_questions, 
 def determine_weather(words):
     lemmatizer = WordNetLemmatizer()
     for x in words:
-        if lemmatizer.lemmatize(x[0]) == 'weather':
+        if (x[0]).lower() == 'weather':
             return True
     return False
 

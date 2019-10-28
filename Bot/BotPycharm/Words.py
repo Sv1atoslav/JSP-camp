@@ -4,7 +4,7 @@ import pandas as pd
 data = pd.read_csv('cities.csv')
 data = data.drop(['geonameid'], axis=1)
 all_cities = [y for x in data.values for y in x]
-print(all_cities)
+
 list_on_unknown_questions = ['Sorry, I don’t understand.', 'Sorry, what?', 'Wait, i can not understand.',
                              'I do not mind.', 'I can not understand you.', 'Something goes wrong.',
                              'I can not answer on this question.', 'You confused me!', 'Try another question.',

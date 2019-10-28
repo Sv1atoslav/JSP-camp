@@ -11,7 +11,7 @@ def start_messaging():
     @bot.message_handler(commands=['start'])
     def greeting(message):
         bot.reply_to(message, 'Hi there,you can ask me for the weather in some city. ("Tell me the weather'
-                              ' in Los Angeles")')
+                              ' in London")')
 
     @bot.message_handler()
     def greeting(message):
@@ -19,9 +19,6 @@ def start_messaging():
         if message.text.lower()=='yes':
             bot.reply_to(message, 'NO')
         else: bot.reply_to(message, answer)
-        print(message.from_user.first_name)
-        print(message.text, '    <--->    ', answer)
-        print('<======================================================>')
 
     bot.polling()
 
